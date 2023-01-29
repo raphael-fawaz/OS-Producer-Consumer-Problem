@@ -12,7 +12,7 @@
 #include <string.h>
 #include <random>
 using namespace std;
-#define  PATH "/home/adhamelkazzaz59/Desktop/6713-7252-lab5/semkeys"
+#define  PATH "/home/rafa/Desktop/6713-7252-lab5/semkeys"
 #define SHM_KEY 0x1234
 
 
